@@ -1,1 +1,1 @@
-<h1>Live preview: https://mesbahpour.github.io/foodie-template/</h1>
+<h3>Live preview: https://mesbahpour.github.io/foodie-template/</h3>
